@@ -2,7 +2,7 @@
 
 # Unity-First Person Interaction Toolkit
 
-![overview gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxxcGo4Y3gyODZoZTA2emZiNTZ1N215NjVycmhnbXQzeWJocjA0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpsPFuHom0A16yceuz/source.gif)
+![overview gif](showcase.gif)
 
 The Unity-FirstPersonInteractionToolkit is a template project for first person adventure games made with love for free use. The project contains an advanced first person character controller and a variety of simple scripts for various interactions as well as some template art and sound assets for rapid level design prototyping. Please feel free to improve upon with a pull request and send whatever you make with it!
 
@@ -28,7 +28,7 @@ Press ESC to quit
 
 ## Project Highlights
 
-[![click to play demo video](https://i.imgur.com/S1qEOv3.png)](https://youtu.be/kQ5ckXGn9xE)
+[![click to play demo video](https://i.imgur.com/kw21mGm.png)](https://www.youtube.com/watch?v=SL4f88X0zAI)
 
 * **Modular interaction system** with dynamic UI crosshair / popup text anims / object highlight
 * **Pickup**, inspect (rotate), throw object, and return to original position
