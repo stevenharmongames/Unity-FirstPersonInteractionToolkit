@@ -43,20 +43,6 @@ Press ESC to quit
 * **Trampoline** (based on incoming velocity, applies opposite upward force to objects / characters)
 * **Slide** (no script, just weeeeeee!)
 
-### Screenshots
-
-![screenshot](https://i.imgur.com/XnGpN7Z.png)
-
-![screenshot](https://i.imgur.com/7PtrL5U.png)
-
-![screenshot](https://i.imgur.com/ShLhWb0.png)
-
-![screenshot](https://i.imgur.com/v7Ge8Bu.png)
-
-![screenshot](https://i.imgur.com/5FePLO1.png)
-
-![screenshot](https://i.imgur.com/5MNTnUO.png)
-
 # License
 
 The Unity-FirstPersonInteractionToolkit is licensed under the [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/).
